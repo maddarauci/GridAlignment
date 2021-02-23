@@ -4,7 +4,6 @@ function preload() {
     //this.load.image('player', 'assets/repl.png');
 }
 */
-console.log('first good');
 /*
 // not mine 
 function create() {
@@ -92,7 +91,6 @@ const config = {
   parent: 'phaser-example',
   scene: [Exmaple]
 };
-console.log('second good');
 
 // i assume every phaser program has this last part 
 //to inialize the game 
